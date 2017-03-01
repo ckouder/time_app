@@ -1,0 +1,4 @@
+index: 入口文件
+server: 启动服务器，接受请求
+route: 甄别请求类型，返回不同的处理函数
+requestHandler: 处理函数
